@@ -3,9 +3,9 @@ C:\Users\mahmo\CalculatorApp\Calculator\Calculator\bin\Debug\Calculator.exe
 C:\Users\mahmo\CalculatorApp\Calculator\Calculator\bin\Debug\Calculator.pdb
 C:\Users\mahmo\CalculatorApp\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
 C:\Users\mahmo\CalculatorApp\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
-C:\Users\mahmo\CalculatorApp\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
 C:\Users\mahmo\CalculatorApp\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
 C:\Users\mahmo\CalculatorApp\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
 C:\Users\mahmo\CalculatorApp\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\mahmo\CalculatorApp\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\mahmo\CalculatorApp\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\mahmo\CalculatorApp\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
